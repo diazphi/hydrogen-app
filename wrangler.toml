@@ -1,0 +1,16 @@
+name = "hydrogen-app"
+type = "javascript"
+account_id = "2e79e577acc4eba9708bdc22ad60edfa"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-12-02"
+
+[site]
+bucket = "dist/client"
+entry-point = "."
+
+[build]
+upload.format = "service-worker"
+command = "yarn && yarn build"
+
