@@ -1,6 +1,6 @@
 export default {
   locale: 'en-us',
-  storeDomain: 'carcar-cebu-chicharon.myshopify.com',
-  storefrontToken: '64d4940edddedc65803558ace80ca7ba',
+  storeDomain: 'hydrogen-preview.myshopify.com',
+  storefrontToken: '3b580e70970c4528da70c98e097c2fa0',
   graphqlApiVersion: 'unstable',
 };

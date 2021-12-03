@@ -22,7 +22,7 @@ function shopSitemap(data) {
           return `
           <url>
             <loc>
-              https://carcar-cebu-chicharon.myshopify.com/products/${product.handle}
+              https://hydrogen-preview.myshopify.com/products/${product.handle}
             </loc>
             <lastmod>${product.updatedAt}</lastmod>
             <changefreq>daily</changefreq>
